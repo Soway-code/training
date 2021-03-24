@@ -1,0 +1,7 @@
+2019-05-27 14:26:26	-	69-1	-1073807339	VISA Read in VISA WR.vi->SOWAY_Modbus_WR.vi->Acquisition_Loop.vi->M2.vi
+2019-05-27 14:26:27	-	69-2	-1073807339	VISA Read in VISA WR.vi->SOWAY_Modbus_WR.vi->Acquisition_Loop.vi->M2.vi
+2019-05-27 14:26:28	-	69-3	-1073807339	VISA Read in VISA WR.vi->SOWAY_Modbus_WR.vi->Acquisition_Loop.vi->M2.vi
+2019-05-27 14:26:29	-	69-4	-1073807339	VISA Read in VISA WR.vi->SOWAY_Modbus_WR.vi->Acquisition_Loop.vi->M2.vi
+2019-05-27 14:26:30	-	69-5	-1073807339	VISA Read in VISA WR.vi->SOWAY_Modbus_WR.vi->Acquisition_Loop.vi->M2.vi
+2019-05-27 14:26:32	-	69-6	-1073807339	VISA Read in VISA WR.vi->SOWAY_Modbus_WR.vi->Acquisition_Loop.vi->M2.vi
+2019-05-27 14:26:33	-	69-7	-1073807339	VISA Read in VISA WR.vi->SOWAY_Modbus_WR.vi->Acquisition_Loop.vi->M2.vi

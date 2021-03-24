@@ -1,0 +1,16 @@
+2018-01-09 16:13:08	-	1-1	-1073807339	VISA WR.vi->SOWAY_Modbus_WR.vi->Acquisition_Loop.vi->M2.vi中的VISA读取
+2018-01-09 16:13:08	-	  	-1073807339	VISA WR.vi->SOWAY_Modbus_WR.vi->Acquisition_Loop.vi->M2.vi中的VISA读取
+2018-01-09 16:13:09	-	1-1	-1073807339	VISA WR.vi->SOWAY_Modbus_WR.vi->Acquisition_Loop.vi->M2.vi中的VISA读取
+2018-01-09 16:13:09	-	  	-1073807339	VISA WR.vi->SOWAY_Modbus_WR.vi->Acquisition_Loop.vi->M2.vi中的VISA读取
+2018-01-09 16:13:10	-	1-1	-1073807339	VISA WR.vi->SOWAY_Modbus_WR.vi->Acquisition_Loop.vi->M2.vi中的VISA读取
+2018-01-09 16:13:10	-	  	-1073807339	VISA WR.vi->SOWAY_Modbus_WR.vi->Acquisition_Loop.vi->M2.vi中的VISA读取
+2018-01-09 16:13:11	-	1-1	-1073807339	VISA WR.vi->SOWAY_Modbus_WR.vi->Acquisition_Loop.vi->M2.vi中的VISA读取
+2018-01-09 16:13:11	-	  	-1073807339	VISA WR.vi->SOWAY_Modbus_WR.vi->Acquisition_Loop.vi->M2.vi中的VISA读取
+2018-01-09 16:13:12	-	1-1	-1073807339	VISA WR.vi->SOWAY_Modbus_WR.vi->Acquisition_Loop.vi->M2.vi中的VISA读取
+2018-01-09 16:13:13	-	  	-1073807339	VISA WR.vi->SOWAY_Modbus_WR.vi->Acquisition_Loop.vi->M2.vi中的VISA读取
+2018-01-09 16:14:01	-	1-1	-1073807339	VISA WR.vi->SOWAY_Modbus_WR.vi->Acquisition_Loop.vi->M2.vi中的VISA读取
+2018-01-09 16:14:01	-	  	-1073807339	VISA WR.vi->SOWAY_Modbus_WR.vi->Acquisition_Loop.vi->M2.vi中的VISA读取
+2018-01-09 16:14:02	-	1-1	-1073807339	VISA WR.vi->SOWAY_Modbus_WR.vi->Acquisition_Loop.vi->M2.vi中的VISA读取
+2018-01-09 16:14:02	-	  	-1073807339	VISA WR.vi->SOWAY_Modbus_WR.vi->Acquisition_Loop.vi->M2.vi中的VISA读取
+2018-01-09 16:14:03	-	1-1	-1073807339	VISA WR.vi->SOWAY_Modbus_WR.vi->Acquisition_Loop.vi->M2.vi中的VISA读取
+2018-01-09 16:14:03	-	  	-1073807339	VISA WR.vi->SOWAY_Modbus_WR.vi->Acquisition_Loop.vi->M2.vi中的VISA读取

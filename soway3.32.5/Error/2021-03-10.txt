@@ -1,0 +1,41 @@
+2021-03-10 09:23:12	-	65-1	-1073807339	VISA Write in VISA WR.vi->SOWAY_Modbus_WR.vi->Acquisition_Loop.vi->M2.vi
+2021-03-10 09:23:13	-	65-2	-1073807339	VISA Write in VISA WR.vi->SOWAY_Modbus_WR.vi->Acquisition_Loop.vi->M2.vi
+2021-03-10 09:23:13	-	  	-1073807339	VISA Write in VISA WR.vi->SOWAY_Modbus_WR.vi->Acquisition_Loop.vi->M2.vi
+2021-03-10 09:23:14	-	65-1	-1073807339	VISA Write in VISA WR.vi->SOWAY_Modbus_WR.vi->Acquisition_Loop.vi->M2.vi
+2021-03-10 09:23:16	-	65-2	-1073807339	VISA Write in VISA WR.vi->SOWAY_Modbus_WR.vi->Acquisition_Loop.vi->M2.vi
+2021-03-10 09:23:16	-	  	-1073807339	VISA Write in VISA WR.vi->SOWAY_Modbus_WR.vi->Acquisition_Loop.vi->M2.vi
+2021-03-10 09:23:17	-	65-1	-1073807339	VISA Write in VISA WR.vi->SOWAY_Modbus_WR.vi->Acquisition_Loop.vi->M2.vi
+2021-03-10 09:23:18	-	65-2	-1073807339	VISA Write in VISA WR.vi->SOWAY_Modbus_WR.vi->Acquisition_Loop.vi->M2.vi
+2021-03-10 09:23:18	-	  	-1073807339	VISA Write in VISA WR.vi->SOWAY_Modbus_WR.vi->Acquisition_Loop.vi->M2.vi
+2021-03-10 09:23:20	-	65-1	-1073807339	VISA Write in VISA WR.vi->SOWAY_Modbus_WR.vi->Acquisition_Loop.vi->M2.vi
+2021-03-10 09:23:21	-	65-2	-1073807339	VISA Write in VISA WR.vi->SOWAY_Modbus_WR.vi->Acquisition_Loop.vi->M2.vi
+2021-03-10 09:23:21	-	  	-1073807339	VISA Write in VISA WR.vi->SOWAY_Modbus_WR.vi->Acquisition_Loop.vi->M2.vi
+2021-03-10 09:23:22	-	65-1	-1073807339	VISA Write in VISA WR.vi->SOWAY_Modbus_WR.vi->Acquisition_Loop.vi->M2.vi
+2021-03-10 09:23:24	-	65-2	-1073807339	VISA Write in VISA WR.vi->SOWAY_Modbus_WR.vi->Acquisition_Loop.vi->M2.vi
+2021-03-10 09:23:24	-	  	-1073807339	VISA Write in VISA WR.vi->SOWAY_Modbus_WR.vi->Acquisition_Loop.vi->M2.vi
+2021-03-10 09:23:25	-	65-1	-1073807339	VISA Write in VISA WR.vi->SOWAY_Modbus_WR.vi->Acquisition_Loop.vi->M2.vi
+2021-03-10 09:23:26	-	65-2	-1073807339	VISA Write in VISA WR.vi->SOWAY_Modbus_WR.vi->Acquisition_Loop.vi->M2.vi
+2021-03-10 09:23:27	-	  	-1073807339	VISA Write in VISA WR.vi->SOWAY_Modbus_WR.vi->Acquisition_Loop.vi->M2.vi
+2021-03-10 09:23:28	-	65-1	-1073807339	VISA Write in VISA WR.vi->SOWAY_Modbus_WR.vi->Acquisition_Loop.vi->M2.vi
+2021-03-10 09:23:29	-	65-2	-1073807339	VISA Write in VISA WR.vi->SOWAY_Modbus_WR.vi->Acquisition_Loop.vi->M2.vi
+2021-03-10 09:23:29	-	  	-1073807339	VISA Write in VISA WR.vi->SOWAY_Modbus_WR.vi->Acquisition_Loop.vi->M2.vi
+2021-03-10 09:23:31	-	65-1	-1073807339	VISA Write in VISA WR.vi->SOWAY_Modbus_WR.vi->Acquisition_Loop.vi->M2.vi
+2021-03-10 09:23:32	-	65-2	-1073807339	VISA Write in VISA WR.vi->SOWAY_Modbus_WR.vi->Acquisition_Loop.vi->M2.vi
+2021-03-10 09:23:32	-	  	-1073807339	VISA Write in VISA WR.vi->SOWAY_Modbus_WR.vi->Acquisition_Loop.vi->M2.vi
+2021-03-10 09:23:33	-	65-1	-1073807339	VISA Write in VISA WR.vi->SOWAY_Modbus_WR.vi->Acquisition_Loop.vi->M2.vi
+2021-03-10 09:23:35	-	65-2	-1073807339	VISA Write in VISA WR.vi->SOWAY_Modbus_WR.vi->Acquisition_Loop.vi->M2.vi
+2021-03-10 09:23:35	-	  	-1073807339	VISA Write in VISA WR.vi->SOWAY_Modbus_WR.vi->Acquisition_Loop.vi->M2.vi
+2021-03-10 09:23:36	-	65-1	-1073807339	VISA Write in VISA WR.vi->SOWAY_Modbus_WR.vi->Acquisition_Loop.vi->M2.vi
+2021-03-10 09:23:37	-	65-2	-1073807339	VISA Write in VISA WR.vi->SOWAY_Modbus_WR.vi->Acquisition_Loop.vi->M2.vi
+2021-03-10 09:23:37	-	  	-1073807339	VISA Write in VISA WR.vi->SOWAY_Modbus_WR.vi->Acquisition_Loop.vi->M2.vi
+2021-03-10 09:23:39	-	65-1	-1073807339	VISA Write in VISA WR.vi->SOWAY_Modbus_WR.vi->Acquisition_Loop.vi->M2.vi
+2021-03-10 09:23:40	-	65-2	-1073807339	VISA Write in VISA WR.vi->SOWAY_Modbus_WR.vi->Acquisition_Loop.vi->M2.vi
+2021-03-10 09:23:40	-	  	-1073807339	VISA Write in VISA WR.vi->SOWAY_Modbus_WR.vi->Acquisition_Loop.vi->M2.vi
+2021-03-10 09:26:25	-	1-1	-1073807339	VISA Read in VISA WR.vi->SOWAY_Modbus_WR.vi->Acquisition_Loop.vi->M2.vi
+2021-03-10 09:26:26	-	1-2	-1073807339	VISA Read in VISA WR.vi->SOWAY_Modbus_WR.vi->Acquisition_Loop.vi->M2.vi
+2021-03-10 09:26:27	-	2-1	-1073807339	VISA Read in VISA WR.vi->SOWAY_Modbus_WR.vi->Acquisition_Loop.vi->M2.vi
+2021-03-10 09:26:29	-	2-2	-1073807339	VISA Read in VISA WR.vi->SOWAY_Modbus_WR.vi->Acquisition_Loop.vi->M2.vi
+2021-03-10 09:26:30	-	3-1	-1073807339	VISA Read in VISA WR.vi->SOWAY_Modbus_WR.vi->Acquisition_Loop.vi->M2.vi
+2021-03-10 09:26:31	-	3-2	-1073807339	VISA Read in VISA WR.vi->SOWAY_Modbus_WR.vi->Acquisition_Loop.vi->M2.vi
+2021-03-10 10:03:04	-	65-2	-1073807339	VISA Read in VISA WR.vi->SOWAY_Modbus_WR.vi->Acquisition_Loop.vi->M2.vi
+2021-03-10 10:03:04	-	  	-1073807339	VISA Read in VISA WR.vi->SOWAY_Modbus_WR.vi->Acquisition_Loop.vi->M2.vi

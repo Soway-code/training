@@ -1,0 +1,8 @@
+2020-09-14 23:07:26	-	33-1	-1073807339	VISA Read in VISA WR.vi->SOWAY_Modbus_WR.vi->Acquisition_Loop.vi->M2.vi
+2020-09-14 23:07:26	-	  	-1073807339	VISA Read in VISA WR.vi->SOWAY_Modbus_WR.vi->Acquisition_Loop.vi->M2.vi
+2020-09-14 23:07:27	-	33-1	-1073807339	VISA Read in VISA WR.vi->SOWAY_Modbus_WR.vi->Acquisition_Loop.vi->M2.vi
+2020-09-14 23:07:27	-	  	-1073807339	VISA Read in VISA WR.vi->SOWAY_Modbus_WR.vi->Acquisition_Loop.vi->M2.vi
+2020-09-14 23:07:29	-	33-1	-1073807339	VISA Read in VISA WR.vi->SOWAY_Modbus_WR.vi->Acquisition_Loop.vi->M2.vi
+2020-09-14 23:07:29	-	  	-1073807339	VISA Read in VISA WR.vi->SOWAY_Modbus_WR.vi->Acquisition_Loop.vi->M2.vi
+2020-09-14 23:07:30	-	33-1	-1073807339	VISA Read in VISA WR.vi->SOWAY_Modbus_WR.vi->Acquisition_Loop.vi->M2.vi
+2020-09-14 23:07:30	-	  	-1073807339	VISA Read in VISA WR.vi->SOWAY_Modbus_WR.vi->Acquisition_Loop.vi->M2.vi
